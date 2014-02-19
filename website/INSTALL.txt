@@ -1,0 +1,6 @@
+1. Install Python on the local machine
+2. Install Django
+3. If Python is running on Windows, edit the EEnvironment Variable so that it include Python root directory.
+4. Update website/settings.py to the settings specific to the local machine
+5. Execute run.bat.
+6. Open a browser at http://127.0.0.1:8000/
